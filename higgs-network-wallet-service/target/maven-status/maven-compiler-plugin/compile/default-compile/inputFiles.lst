@@ -1,0 +1,13 @@
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/RedisService.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/impl/SymbolServiceImpl.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/impl/AutoOnChainServiceImpl.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/impl/AddressServiceImpl.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/AddressService.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/AutoOnChainService.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/impl/PartnerServiceImpl.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/impl/RedisServiceImpl.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/RedisConfig.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/TransactionService.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/impl/TransactionServiceImpl.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/PartnerService.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-service/src/main/java/com/higgs/network/wallet/service/SymbolService.java

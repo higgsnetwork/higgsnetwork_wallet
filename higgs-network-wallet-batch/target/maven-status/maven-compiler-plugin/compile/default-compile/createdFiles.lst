@@ -1,0 +1,8 @@
+com/higgs/network/wallet/batch/AutoOnChainTransactionTask.class
+com/higgs/network/wallet/batch/AutoOnChainTaskFactory.class
+com/higgs/network/wallet/batch/CallbackTask.class
+com/higgs/network/wallet/batch/CallbackTaskImpl.class
+com/higgs/network/wallet/batch/AutoOnChainScanTaskImpl.class
+com/higgs/network/wallet/batch/CallbackTaskFactory.class
+com/higgs/network/wallet/batch/AutoOnChainTransactionTaskImpl.class
+com/higgs/network/wallet/batch/AutoOnChainScanTask.class

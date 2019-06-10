@@ -1,0 +1,13 @@
+com/higgs/network/wallet/service/impl/SymbolServiceImpl.class
+com/higgs/network/wallet/service/AddressService.class
+com/higgs/network/wallet/service/impl/TransactionServiceImpl.class
+com/higgs/network/wallet/service/impl/AddressServiceImpl.class
+com/higgs/network/wallet/service/SymbolService.class
+com/higgs/network/wallet/service/RedisConfig.class
+com/higgs/network/wallet/service/impl/PartnerServiceImpl.class
+com/higgs/network/wallet/service/PartnerService.class
+com/higgs/network/wallet/service/TransactionService.class
+com/higgs/network/wallet/service/impl/AutoOnChainServiceImpl.class
+com/higgs/network/wallet/service/impl/RedisServiceImpl.class
+com/higgs/network/wallet/service/AutoOnChainService.class
+com/higgs/network/wallet/service/RedisService.class

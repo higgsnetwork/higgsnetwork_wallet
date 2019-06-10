@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.higgs.network.wallet</groupId>
+    <artifactId>higgs-network-wallet</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>higgs-network-wallet-common</module>
+        <module>higgs-network-wallet-dao</module>
+	    <module>higgs-network-wallet-domain</module>
+	    <module>higgs-network-wallet-service</module>
+	    <module>higgs-network-wallet-stub</module>
+        <module>higgs-network-wallet-web</module>
+        <module>higgs-network-wallet-batch</module>
+  </modules>
+</project>

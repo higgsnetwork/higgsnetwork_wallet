@@ -1,0 +1,14 @@
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/AutoOnchainAddressBalanceDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/PartnerSymbolDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/AutoOnchainPartnerinfoDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/AutoOnchainOrderinfoDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/TransactionDepositCryptoDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/CryptoAddressDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/SystemAddressDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/AddressBindInfoDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/PartnerInfoDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/AutoOnchainSymbolDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/ConfigCoinSymbolDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/AutoOnchainPartnerOrderinfoDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/ExFeeDAO.java
+/Users/fuwei/HiggsNetwork/higgs-network-wallet/higgs-network-wallet-dao/src/main/java/com/higgs/network/wallet/dao/TransactionWithdrawCryptoDAO.java

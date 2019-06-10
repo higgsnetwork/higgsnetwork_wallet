@@ -1,0 +1,15 @@
+com/higgs/network/wallet/dao/AutoOnchainSymbolDAO.class
+com/higgs/network/wallet/dao/AutoOnchainOrderinfoDAO.class
+com/higgs/network/wallet/dao/AutoOnchainPartnerinfoDAO.class
+com/higgs/network/wallet/dao/CryptoAddressDAO.class
+com/higgs/network/wallet/dao/AutoOnchainAddressBalanceDAO.class
+com/higgs/network/wallet/dao/AddressBindInfoDAO.class
+com/higgs/network/wallet/dao/PartnerInfoDAO.class
+com/higgs/network/wallet/dao/AutoOnchainPartnerOrderinfoDAO.class
+com/higgs/network/wallet/dao/ConfigCoinSymbolDAO.class
+com/higgs/network/wallet/dao/ExFeeDAO.class
+com/higgs/network/wallet/dao/TransactionDepositCryptoDAO.class
+com/higgs/network/wallet/dao/SystemAddressDAO.class
+com/higgs/network/wallet/dao/PartnerSymbolDAO.class
+com/higgs/network/wallet/dao/TransactionWithdrawCryptoDAO.class
+com/higgs/network/wallet/dao/AutoOnchainPartnerOrderinfoDAO$CyQuestionDetailProvider.class
